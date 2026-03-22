@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="karlagina_pr2/karlagina_pr2.csproj" />
+  <Project Path="Test/Test.csproj" />
+  <Project Path="WPF_app/WPF_app.csproj" />
+</Solution>
